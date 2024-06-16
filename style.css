@@ -1,0 +1,77 @@
+#menu-de-navegacion {
+  background-color: rgb(0, 0, 0);
+  padding: 10px;
+  width: 50%;
+  border-radius: 10px;
+}
+
+#productos {
+  color: rgb(0, 255, 0);
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#productos:hover {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#restaurantes {
+  color: rgb(251, 255, 0);
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#restaurantes:hover {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#sobre_nosotros {
+  color: rgb(255, 0, 0);
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#sobre_nosotros:hover {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#cupones {
+  color: rgb(255, 0, 255);
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#cupones:hover {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#avorguesas-michi-app {
+  color: orange;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
+#avorguesas-michi-app:hover {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 5px;
+}
+
